@@ -1,0 +1,16 @@
+npm i gulp --save-dev
+
+ npm i jquery --save
+ npm i --save-dev webpack webpack-cli webpack-stream
+
+ npm i @babel/core @babel/preset-env @babel/preset-react babel-loader --save-dev
+https://webpack.js.org/loaders/babel-loader/
+
+ npm i core-js // эта библиотека содержит полифилы
+
+npm i gulp-sass --save-dev
+
+// установка реакт:
+npm i react react-dom --save-dev
+// библиотека для обмена с сервером
+npm i axios --save
